@@ -1,6 +1,3 @@
-module.exports = {
-    publicPath: '/vue-project/'
-}
 
 export default defineConfig({
     plugins: [
